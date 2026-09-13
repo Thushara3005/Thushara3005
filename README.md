@@ -24,8 +24,7 @@
 </div>
 
 ---
-
-## { WHO AM I }
+<h3 align="center">〔 WHO AM I 〕</h3>
 
 I'm a B.Tech student and developer who enjoys turning ideas into working applications.
 
@@ -34,8 +33,7 @@ I started with web development and gradually became more interested in Python, d
 Currently, I'm focused on strengthening my fundamentals, building useful things, and exploring where software engineering meets AI.
 
 ---
-
-## { CURRENT STATE }
+<h3 align="center">{ CURRENT STATE }</h3>
 
 🎓 **B.Tech Student**  
 🤖 **Exploring AI / ML / GenAI**  
@@ -50,8 +48,7 @@ Currently, I'm focused on strengthening my fundamentals, building useful things,
 `Python` → `NumPy` → `Pandas` → `Machine Learning` → `GenAI`
 
 ---
-
-## { WHAT I'M FOCUSED ON }
+<h3 align="center">{ WHAT I'M FOCUSED ON }</h3>
 
 | Area | Focus |
 |------|-------|
@@ -61,8 +58,7 @@ Currently, I'm focused on strengthening my fundamentals, building useful things,
 | 💻 **Problem Solving** | DSA, algorithms, and writing better solutions |
 
 ---
-
-## { CURRENTLY LEARNING }
+<h3 align="center">{ CURRENTLY LEARNING }</h3>
 
 ```text
 Python
@@ -81,8 +77,7 @@ GenAI / LLMs
 I'm focusing on understanding the fundamentals first and gradually moving toward building practical AI-powered applications.
 
 ---
-
-## { MY APPROACH }
+<h3 align="center">{ MY APPROACH }</h3>
 
 > **Learn → Build → Debug → Improve**
 
@@ -91,9 +86,9 @@ I don't want to just learn how technology works — I want to understand why it 
 I learn by building, experimenting with ideas, solving problems, breaking things, and figuring out how to make them better.
 
 ---
-
+<div align="center">
 ## { HOW I BUILD }
-
+</div>
 ```text
 CURIOSITY
     ↓
