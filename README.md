@@ -1,5 +1,12 @@
 <div align="center">
 
+<img src="./banner.png" width="100%" alt="Veparala Thushara Developer Banner">
+
+</div>
+
+---
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Veparala%20Thushara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20GenAI&descAlignY=58&descSize=16" width="100%"/>
 
 <br>
