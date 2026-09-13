@@ -93,7 +93,7 @@ I learn by building, experimenting with ideas, solving problems, breaking things
 
 ---
 
-## { BEYOND THE CODE }
+## { HOW I BUILD }
 
 ```text
 CURIOSITY
