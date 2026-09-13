@@ -127,7 +127,7 @@ I'm always open to **collaborating on interesting projects**, connecting with fe
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thushara-veparala/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/veparalathushara30%gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:veparalathushara30@gmail.com)
+[![Gmail](https://img.shields.io/badge/veparalathushara30%40gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:veparalathushara30@gmail.com)
 &nbsp;
 [![WhatsApp](https://img.shields.io/badge/+91_6309312469-1a0a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+916309312469)
 
