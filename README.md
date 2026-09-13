@@ -1,5 +1,4 @@
 <div align="center">
-
 <img src="./banner.png.png" width="100%" alt="Veparala Thushara Developer Banner">
 
 </div>
@@ -113,18 +112,39 @@ For me, development isn't just about writing code — it's about continuously di
 
 ---
 
-## { LET'S CONNECT }
+<h3 align="center">{ LET'S CONNECT }</h3>
 
-I'm always open to connecting with developers, learning from others, and exploring interesting ideas.
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Thushara3005">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/thushara-veparala">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:veparalathushara30@gmail.com">Email</a>
-</p>
+I'm always open to **collaborating on interesting projects**, connecting with fellow developers, and exploring new opportunities — whether that's a startup, an open-source project, an internship, or just a great engineering conversation.
 
-<p align="center">
-  <i>Keep learning. Keep building.</i>
-</p>
+**Reach out — I respond fast. 👇**
+
+
+<br><br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JANAKIRAM218)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/baddula-janakiram-7b436b321/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/baddulabablu05%40gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:baddulabablu05@gmail.com)
+&nbsp;
+[![WhatsApp](https://img.shields.io/badge/+91_7989462265-1a0a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+917989462265)
+
+<br/>
+
+*Open to full-stack roles &nbsp;·&nbsp; internships &nbsp;·&nbsp; open-source &nbsp;·&nbsp; collaborations*
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=C4B5FD&fontAlignY=65&animation=fadeIn"/>
+
+<div align="center">
+<sub>
+  <strong>⚡ Thushara</strong> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; India 🇮🇳 &nbsp;·&nbsp; 2025
+  <br/>
+  <em>Designed with purpose · Built in public · Always improving</em>
+</sub>
+</div>
