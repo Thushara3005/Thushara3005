@@ -1,16 +1,11 @@
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Veparala Thushara Developer Banner">
+<img src="./banner.png.png" width="100%" alt="Veparala Thushara Developer Banner">
 
 </div>
 
----
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=180&section=header&text=Veparala%20Thushara&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20GenAI&descAlignY=58&descSize=16" width="100%"/>
-
 <br>
-
 <a href="https://github.com/Thushara3005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -22,14 +17,12 @@
 <a href="mailto:veparalathushara30@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
+<br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Learn+%E2%86%92+Build+%E2%86%92+Debug+%E2%86%92+Improve;Exploring+AI%2FML+%26+GenAI;Building+ideas+into+working+applications" />
 
 </div>
-
----
 
 ---
 
