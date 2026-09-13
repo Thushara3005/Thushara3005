@@ -123,13 +123,13 @@ I'm always open to **collaborating on interesting projects**, connecting with fe
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JANAKIRAM218)
+[![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thushara3005)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/baddula-janakiram-7b436b321/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0a2e?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/thushara-veparala/)
 &nbsp;
-[![Gmail](https://img.shields.io/badge/baddulabablu05%40gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:baddulabablu05@gmail.com)
+[![Gmail](https://img.shields.io/badge/veparalathushara30%gmail.com-1a0a2e?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:veparalathushara30@gmail.com)
 &nbsp;
-[![WhatsApp](https://img.shields.io/badge/+91_7989462265-1a0a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+917989462265)
+[![WhatsApp](https://img.shields.io/badge/+91_6309312469-1a0a2e?style=for-the-badge&logo=whatsapp&logoColor=25D366)](tel:+916309312469)
 
 <br/>
 
@@ -143,7 +143,7 @@ I'm always open to **collaborating on interesting projects**, connecting with fe
 
 <div align="center">
 <sub>
-  <strong>⚡ Thushara</strong> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; India 🇮🇳 &nbsp;·&nbsp; 2025
+  <strong>⚡ Thushara</strong> &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; India 🇮🇳 &nbsp;·&nbsp; 2026
   <br/>
   <em>Designed with purpose · Built in public · Always improving</em>
 </sub>
