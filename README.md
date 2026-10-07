@@ -1,7 +1,9 @@
-<div align="center">
-<img src="./banner.png.png" width="100%" alt="Veparala Thushara Developer Banner">
 
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20I'm%20Thushara%20%F0%9F%91%8B&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Exploring%20AI%2FML%20%26%20GenAI&descAlignY=55&descSize=18" />
 </div>
+</div>
+<br/>
 
 <div align="center">
 <br>
@@ -24,7 +26,7 @@
 </div>
 
 ---
-<h3 align="center">〔 WHO AM I 〕</h3>
+<h3 align="center"> WHO AM I </h3>
 
 I'm a B.Tech student and developer who enjoys turning ideas into working applications.
 
@@ -33,7 +35,7 @@ I started with web development and gradually became more interested in Python, d
 Currently, I'm focused on strengthening my fundamentals, building useful things, and exploring where software engineering meets AI.
 
 ---
-<h3 align="center">{ CURRENT STATE }</h3>
+<h3 align="center"> CURRENT STATE </h3>
 
 🎓 **B.Tech Student**  
 🤖 **Exploring AI / ML / GenAI**  
@@ -48,7 +50,7 @@ Currently, I'm focused on strengthening my fundamentals, building useful things,
 `Python` → `NumPy` → `Pandas` → `Machine Learning` → `GenAI`
 
 ---
-<h3 align="center">{ WHAT I'M FOCUSED ON }</h3>
+<h3 align="center"> WHAT I'M FOCUSED ON </h3>
 
 | Area | Focus |
 |------|-------|
@@ -58,7 +60,7 @@ Currently, I'm focused on strengthening my fundamentals, building useful things,
 | 💻 **Problem Solving** | DSA, algorithms, and writing better solutions |
 
 ---
-<h3 align="center">{ CURRENTLY LEARNING }</h3>
+<h3 align="center"> CURRENTLY LEARNING </h3>
 
 ```text
 Python
@@ -77,7 +79,7 @@ GenAI / LLMs
 I'm focusing on understanding the fundamentals first and gradually moving toward building practical AI-powered applications.
 
 ---
-<h3 align="center">{ MY APPROACH }</h3>
+<h3 align="center"> MY APPROACH </h3>
 
 > **Learn → Build → Debug → Improve**
 
@@ -87,7 +89,7 @@ I learn by building, experimenting with ideas, solving problems, breaking things
 
 ---
 <div align="center">
-## { HOW I BUILD }
+##  HOW I BUILD 
 </div>
 ```text
 CURIOSITY
@@ -107,7 +109,7 @@ For me, development isn't just about writing code — it's about continuously di
 
 ---
 
-<h3 align="center">{ LET'S CONNECT }</h3>
+<h3 align="center"> LET'S CONNECT </h3>
 
 <div align="center">
 
